@@ -1,0 +1,44 @@
+img
+{
+    height: 100px;
+    width: 120px;
+    padding-left: 20px;
+}
+
+.lens
+{
+    font-weight: bold;
+    
+}
+
+
+.img-responsive
+{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    height: 500px;
+    width: 300px;
+   border-radius: 40px;
+}
+
+.test_image_and_result
+{
+background-color: grey;
+}
+
+h5
+{
+background-color: white;
+font-size: 25px;
+}
+
+b
+{
+    color: purple;
+}
+
+h4
+{
+    text-align: center;
+    color: white;
+}
